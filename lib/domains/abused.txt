@@ -1418,3 +1418,4 @@ csi.edu.eg
 kongju.ac.kr
 virtual.ceipa.edu.co
 binus.ac.id
+ogr.iu.edu.tr
